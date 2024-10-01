@@ -1,12 +1,10 @@
-
-
 package com.mycompany.heeroe;
 
 class Heeroe {
 
     private int vida;
     private int x;
-    private String nombre;
+    private final String nombre;
     private boolean saltando;
     
     
